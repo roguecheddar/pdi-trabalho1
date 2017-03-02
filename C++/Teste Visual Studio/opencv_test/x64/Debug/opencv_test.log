@@ -1,0 +1,12 @@
+﻿  Source.cpp
+  project_tools.cpp
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleig\desktop\pdi\pdi-trabalho1\c++\teste visual studio\opencv_test\project_tools.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Fleig\Desktop\PDI\pdi-trabalho1\C++\Teste Visual Studio\x64\Debug\opencv_test.exe not found or not built by the last incremental link; performing full link
+  opencv_test.vcxproj -> C:\Users\Fleig\Desktop\PDI\pdi-trabalho1\C++\Teste Visual Studio\x64\Debug\opencv_test.exe
+  opencv_test.vcxproj -> C:\Users\Fleig\Desktop\PDI\pdi-trabalho1\C++\Teste Visual Studio\x64\Debug\opencv_test.pdb (Full PDB)
